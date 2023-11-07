@@ -20,6 +20,11 @@ bs4 = "^0.0.1"
 sentence-transformers = "^2.2.2"
 pypdf = "^3.17.0"
 joblib = "^1.3.2"
+faiss-cpu = "^1.7.4"
+docx2txt = "^0.8"
+huggingface-hub = "^0.18.0"
+pypdf2 = "^3.0.1"
+instructorembedding = "^1.0.1"
 
 
 [build-system]
